@@ -3,7 +3,6 @@ import Home from "./pages/Home.jsx";
 import Main from "./pages/Main.jsx";
 import "./App.css";
 import "./style.css"
-import Modal from "./components/Modal.jsx"
 import MovieDetails from "./pages/Movie.jsx";
 
 
